@@ -1,0 +1,303 @@
+.container{
+    background-color: #128c7e;
+    width: 100%;
+    height: 91px;
+
+}
+body{
+    margin:0;
+}
+.logo{
+    
+    width:50%;
+    
+}
+.login{
+    width:50%;
+}
+.whatsup{
+    padding-left: 106.7px;
+    padding-top: 23px;
+    
+}
+.one{
+    color:white;
+    font-weight:400;
+    padding-left:263px;
+    margin-top:-29px;
+    font-size: 16px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.two{
+    color:white;
+    font-weight:400;
+    padding-left:438px;
+    margin-top:-45px;
+    font-size: 16px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.three{
+    color:white;
+    font-weight:400;
+    padding-left:568px;
+    margin-top:-46px;
+    font-size: 16px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.four{
+    color:white;
+    font-weight:400;
+    padding-left:708px;
+    margin-top:-46px;
+    font-size: 16px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.five{
+        color:white;
+        font-weight:400;
+        padding-left:831px;
+        margin-top:-46px;
+        font-size: 16px;
+        font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}    
+.images{
+    padding-left: 990px;
+    padding-bottom: 72px;
+    width: 26px;
+    margin-top: -47px;
+
+}
+.six{
+    color: white;
+    font-weight: 400;
+    padding-left: 1018px;
+    margin-top: -94px;
+    font-size: 15px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.simplefirst{
+    height: 11px;
+    font-size: 33px;
+    line-height: 326px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    padding-left: 237px;
+}
+.simplesecond{
+    height: 11px;
+    font-size: 33px;
+    line-height: 326px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    padding-left: 237px;
+
+}
+.para1{
+    height: 11px;
+    line-height: 387px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    padding-left: 237px;
+
+}
+.para2{
+    height: 11px;
+    line-height: 387px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    padding-left: 237px;
+}.para3{
+        height: 11px;
+        line-height: 387px;
+        font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-weight: 400;
+        padding-left: 237px;
+}.image2{
+    padding-left: 687px;
+    width: 353px;
+    margin-top: -510px;
+}.para4{
+    color: #5E5E5E;
+    font-size: 16px;
+    height: 11px;
+        line-height: 404px;
+        font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-weight: 400;
+        padding-left: 237px;
+}
+.para5{
+    color: #5E5E5E;
+    font-size: 16px;
+    height: 11px;
+        line-height: 492px; line-height: 492px;
+        font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-weight: 400;
+        padding-left: 237px;
+
+}.image3{
+    padding-left: 228px;
+    width: 230px;
+    margin-top: 223px;
+}.section12{
+    background-color: #D8E8EA;
+    width: 617px;
+    height: 725px;
+    padding-bottom: 72px;
+    margin-top: -40px
+}
+.title1{
+    line-height: 163px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding-left: 144px;
+    font-size: 31px;
+}.para7{
+    padding-left: 66px;
+    line-height:22px;
+    margin-top: -37px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+  
+    
+  
+}.para6{
+    color: #39b3ed;
+    
+    padding-left: 66px;
+    margin-top: -84px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.para8{
+    padding-left: 218px;
+    margin-top: -34px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.para9 {
+        line-height:22px;
+        padding-left: 88px;
+        margin-top: 39px;
+        font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}.para10{
+    color: #39b3ed;
+    padding-left: 318px;
+    margin-top: -36px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.imagephone{
+    
+    width: 334px;
+    margin-top:101px;
+    margin-left: 114px;
+}
+.section13{
+    background-color: #E7F0E4;
+    width: 617px;
+    height: 539px;
+    padding-bottom: 261px;
+    margin-top: -802px;
+    margin-left: 647px;
+}
+.imagephone2{
+    
+    width: 345px;
+    margin-top: 44px;
+    margin-left: 144px;
+}
+.para11{
+    color: #5E5E5E;
+    font-size: 16px;
+    padding-left: 864px;
+    margin-top: -379px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.para12{
+    color: black;
+    font-size: 34px;
+    padding-left: 827px;
+    margin-top: -7px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.para13{
+    color: black;
+    padding-left: 723px;
+    margin-top: -7px;
+    font-size: 16px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    line-height:22px;
+}
+.whitebox{
+    background-color:white;
+    width:100%;
+    height: 137px;
+    margin-top: 176px;
+
+}
+
+.whitebox2 {
+    background-color: white;
+    width: 199px;
+    height: 48px;
+    margin-top: 52px;
+    margin-left: 536px;
+    border-radius: 27px;
+    border: 2px solid #77d7c8;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #128c7e;
+    font-size: 15px;
+}
+.blackbox{
+   margin-top: 43px;
+    background-color: #273443;
+    width: 100%;
+    height: 279px;
+}
+.para14{
+    color: #F0F4F9;
+    font-weight: 700;
+    letter-spacing: 1.7px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin-left: 158px;
+    padding-top: 46px;
+}
+.para15{
+    color: #F0F4F9;
+    font-weight: 400;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin-left: 159px;
+    margin-top: -15px;
+    font-size: 16px;
+    line-height: 25px;
+}
+.para16{
+    color: #F0F4F9;
+    font-weight: 700;
+    letter-spacing: 1.7px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin-left:404px;
+    margin-top: -211px;
+}
+.para17{
+    color: #F0F4F9;
+    font-weight: 400;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin-left: 406px;
+    margin-top: 24px;
+    font-size: 16px;
+    line-height: 25px;
+}
+.imageblack{
+    width: 472px;
+    margin-top: -285px;
+    margin-left: 634px;
+}
+.imageblack2{
+    width: 100%;
+    margin-top: 5px;
+    margin-left: 0px;
+    height: 60px;
+
+}
